@@ -6,7 +6,7 @@ export const SITE = {
   desc: "A blog about development & cloud related topics.",
   title: "Mees van Straten",
   ogImage: "default-og.png",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerPage: 3,
 };
 

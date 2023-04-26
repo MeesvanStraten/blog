@@ -1,6 +1,6 @@
 ---
 author: Mees van Straten
-datetime: 2023-03-31 12:00
+datetime: 2023-04-26 12:00
 title: Datadog dashboards with Terraform
 slug: datadog-dashboards-with-terraform
 featured: true
@@ -9,10 +9,13 @@ tags:
   - datadog
   - terraform
   - monitoring
+  - Monitoring-as-Code
 ogImage: ""
 description:
-  How to manage Datadog with Terraform
+  Creating Datadog dashboards with Terraform.
 ---
+This post originally appeared on [cloudlegends.nl](https://cloudlegends.nl/en/datadog-dashboards-with-terraform?latest)
+<link rel="canonical" href="https://cloudlegends.nl/en/datadog-dashboards-with-terraform" />
 
 # Introduction
 In this blog post, we will look into how we can create Datadog dashboards with a MaC approach. Yes, I do love some Monitoring-as-Code every now and then. 

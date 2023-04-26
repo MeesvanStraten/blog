@@ -35,8 +35,8 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Linkedin",
-    href: "https://github.com/",
-    active: false,
+    href: "https://www.linkedin.com/in/mees-van-straten-9b608b61/",
+    active: true,
   },
   {
     name: "Mail",

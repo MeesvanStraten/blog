@@ -4,7 +4,7 @@ title: "About me"
 ---
 Hi there, my name is Mees.
 
-I am a Developer and Cloud Engineer who is passionate about DevOps, cloud-native development, and back-end development in general. Currently, I work for CloudLegends (by Kabisa) as a DevOps/Cloud Engineer. I have experience and enjoy working with AWS and Azure.
+I am a Developer and Cloud Engineer who is passionate about DevOps, cloud-native development, and back-end development in general. Currently, I work for Working Spirit as a DevOps/Cloud Engineer. I have experience and enjoy working with AWS, Azure, Kubernetes and many other tools.
 
 When I learn new skills or technologies I will share them here on this blog, hoping it will be of help to someone.
 
@@ -13,6 +13,7 @@ I like building stuff and enjoy the following tech stack frequently:
 ## Cloud ☁️
 - AWS
 - Azure
+- Kubernetes
 
 
  ## Languages & frameworks
@@ -31,6 +32,7 @@ I like building stuff and enjoy the following tech stack frequently:
 
  ## Other cool stuff
  - Terraform
+ - Bicep
  - Pulumi
  - Datadog
  - Kubernetes
